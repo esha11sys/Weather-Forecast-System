@@ -71,7 +71,7 @@ python --version
 
 2. Download or Copy the Project Folder
 
-Place the project folder on your computer.
+Place the project folder on your computer.https://github.com/esha11sys/Weather-Forecast-System.git
 
 ---
 
@@ -164,6 +164,12 @@ cache/
 Screenshots
 
 Screenshots of the application output are included in the project folder inside the Word document file and also in screenshot folder
+###Weather app###
+![main menu](screenshot/current_weather.png)
+![main menu](screenshot/favorite_cities2.png)
+![main menu](screenshot/search_history.png)
+![main mainu](screenshot/favorite_cities_weather.png)
+
 
 ---
 
